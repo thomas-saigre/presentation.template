@@ -1,0 +1,17 @@
+\usepackage[%
+        shash={4145f67},
+        lhash={4145f673aefba5483382066bd8460aac25861f00},
+        authname={Alfredo Buttari},
+        authemail={alfredo.buttari@gmail.com},
+        authsdate={2024-08-19},
+        authidate={2024-08-19 16:01:51 +0200},
+        authudate={1724076111},
+        commname={Alfredo Buttari},
+        commemail={alfredo.buttari@gmail.com},
+        commsdate={2024-08-19},
+        commidate={2024-08-19 16:01:51 +0200},
+        commudate={1724076111},
+        refnames={ (HEAD -> main, tag: v1.0.0, origin/main)},
+        firsttagdescribe={v1.0.0},
+        reltag={v1.0.0-0-g4145f67}
+    ]{gitexinfo}
