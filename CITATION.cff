@@ -23,9 +23,6 @@ keywords:
   - Template
   - NumPEx
 license: CC-BY-4.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.13341126
 date-released: 2024-08-19
 url: "https://github.com/numpex/presentation.template"
 references:
